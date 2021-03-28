@@ -1,0 +1,17 @@
+1.
+Specifically, in two sequential studies, using data collected from news consumers through Amazon
+Mechanical Turk (AMT), we study whether there are differences in their ability to correctly identify fake news
+under two conditions: when the intervention targets novel news situations and when the intervention is tailored
+to specific heuristics.
+
+file:///C:/Users/veena/Downloads/Tailoring_heuristics_and_timing_AI_interventions_f.pdf
+
+
+2. https://www.factcheck.org/
+
+3. Majority of these techniques use fact checking websites such as “PolitiFact” and “Snopes.”
+
+4. Fact cheking: snopes, buzzfeed, politifact and emergent).
+
+5. ALL about fake news
+https://academicguides.waldenu.edu/library/fakenews/idfakenews#s-lg-box-25239943
